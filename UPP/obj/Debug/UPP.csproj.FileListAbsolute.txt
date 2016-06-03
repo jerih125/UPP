@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\bin\Debug\UPP.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.Grajdani.resources
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\bin\Debug\UPP.exe
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\bin\Debug\UPP.pdb
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.exe
+c:\users\admin\documents\visual studio 2015\Projects\UPP\UPP\obj\Debug\UPP.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\UPP\UPP\bin\Debug\MySql.Data.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\UPP\UPP\obj\Debug\UPP.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\UPP\UPP\obj\Debug\UPP.Registration.resources
