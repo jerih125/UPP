@@ -144,7 +144,7 @@ namespace UPP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Добро пожаловать!");
+            MessageBox.Show("Добро пожаловать!","Здравствуйте!",MessageBoxButtons.YesNo);
         }
     }
 }
